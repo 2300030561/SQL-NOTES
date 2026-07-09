@@ -1,0 +1,137 @@
+# Introduction to SQL
+
+* What is SQL?
+
+SQL stands for Structured Query Language.
+
+SQL is a programming language used to communicate with relational databases.
+
+It allows users to:
+- Store data
+- Retrieve data
+- Update data
+- Delete data
+- Manage databases
+
+
+* Why SQL is Important?
+
+SQL is widely used because almost every application needs to store and manage data.
+
+Examples:
+- Banking applications
+- E-commerce websites
+- Social media platforms
+- Healthcare systems
+- Government applications
+
+
+* What is a Database?
+
+A database is an organized collection of data that can be easily accessed, managed, and updated.
+
+Example:
+
+Student Database:
+
+| ID | Name | Age |
+|----|------|-----|
+| 1  | Ravi | 20 |
+| 2  | John | 21 |
+
+* What is DBMS?
+
+DBMS stands for Database Management System.
+
+It is software used to create, store, manage, and control databases.
+
+Examples:
+
+- MySQL
+- Oracle
+- PostgreSQL
+- Microsoft SQL Server
+
+
+* What is RDBMS?
+
+RDBMS stands for Relational Database Management System.
+
+It stores data in the form of tables(rows and columns).
+
+Examples:
+
+- MySQL
+- PostgreSQL
+- Oracle
+
+
+* Difference Between DBMS and RDBMS
+
+| DBMS | RDBMS |
+|------|-------|
+| Stores data as files | Stores data as tables |
+| Less security | More security |
+| No relationship between data | Relationships between tables |
+| Example: File system | Example: MySQL |
+
+
+* Popular SQL Databases
+
+1. MySQL
+2. PostgreSQL
+3. Oracle Database
+4. Microsoft SQL Server
+5. SQLite
+
+
+* SQL Commands Categories
+
+SQL commands are divided into five categories:
+
+* 1. DDL (Data Definition Language)
+
+Used to define database structure.
+
+Commands:
+- CREATE
+- ALTER
+- DROP
+- TRUNCATE
+
+
+* 2. DML (Data Manipulation Language)
+
+Used to modify data.
+
+Commands:
+- INSERT
+- UPDATE
+- DELETE
+
+
+* 3. DQL (Data Query Language)
+
+Used to retrieve data.
+
+Command:
+- SELECT
+
+
+* 4. DCL (Data Control Language)
+
+Used for permissions.
+
+Commands:
+- GRANT
+- REVOKE
+
+
+* 5. TCL (Transaction Control Language)
+
+Used for transactions.
+
+Commands:
+- COMMIT
+- ROLLBACK
+- SAVEPOINT
